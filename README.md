@@ -12,6 +12,6 @@ ______
 3. Download SAPBridge from https://fbs.sh/JunjunGuo/SAPBridge/SAPBridgeSetup.exe, and install it
 4. When encounter error after installation, just close the window, and reopen it.
 5. Click loadResultDB button, and load the result database (resultsDB_1_1.db)
-6. Then display the model and conduct post process.
+6. Then display the model and conduct post process.     
 Prepare your own openseespy model by referring the file AnExampleBridgeOpenSeesPyModel.py      
 ### Notes: compatible modules: records==0.5.3, sQLAlchemy==1.3.20
