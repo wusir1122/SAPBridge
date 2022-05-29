@@ -15,5 +15,7 @@ ______
 6. Then display the model and conduct post process.     
 Prepare your own openseespy model by referring the file AnExampleBridgeOpenSeesPyModel.py      
 ### Notes: compatible modules: records==0.5.3, sQLAlchemy==1.3.20     
-<img src="https://github.com/Junjun1guo/openSeesPy-GUI/blob/main/model.JPG" width =100% height =100% div align="center">
-<img src="https://github.com/Junjun1guo/openSeesPy-GUI/blob/main/modeShape.JPG" width =100% height =100% div align="center">　
+<img src="https://github.com/Junjun1guo/SAPBridge/blob/main/model.JPG" width =100% height =100% div align="center">
+<img src="https://github.com/Junjun1guo/SAPBridge/blob/main/modeShape.JPG" width =100% height =100% div align="center">
+<img src="https://github.com/Junjun1guo/SAPBridge/blob/main/timeHistory.JPG" width =100% height =100% div align="center">
+<img src="https://github.com/Junjun1guo/SAPBridge/blob/main/hysteretic.JPG" width =100% height =100% div align="center">
